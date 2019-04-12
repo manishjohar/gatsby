@@ -7,7 +7,7 @@ import Image from '../components/image'
 const IndexPage = () => (
   <Layout>
     <h1>
-      <marquee direction="right">Hello from Manish Johar 😎</marquee>
+      <marquee direction="left">Hello from Manish Johar 😎</marquee>
     </h1>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
